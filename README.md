@@ -23,7 +23,7 @@ Artificial intelligence harnesses machine learning and deep learning to excel in
 Reasoning in AI spans from logical deduction to the adaptability required to handle new information, reflecting the use of both monotonic and non-monotonic reasoning. These methods illustrate AI's multifaceted approach to tackling challenges and making informed decisions, highlighting its cognitive process that parallels human reasoning and judgment. (Reasoning in Artificial Intelligence - JavatPoint, z.d.)
 
 ## 1.3 Info-graphic
-
+![AI Info-graphic](/assets/info-graphic-ai.png)
 This infographic provides a snapshot of the various artificial intelligence (AI) technologies segmented into three categories: Language Models, AI Tools (ChatGPT), and Computer Vision. On the language models front, it highlights GPT-4, BERT, and T5, which are renowned for their natural language processing capabilities, ranging from text generation to sentiment analysis and translation. At the core of the AI tools section is ChatGPT, which acts as an intermediary, leveraging the power of language models and computer vision to understand and generate human-like text and images. Lastly, the computer vision section presents models like VGG-16, ResNet, and EfficientNet, which are pivotal in image recognition and classification tasks. The infographic demonstrates the interconnectedness of these technologies and their combined role in advancing AI applications.
 
 # Part II: AI Data Product Description of ChatGPT
