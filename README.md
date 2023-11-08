@@ -68,7 +68,7 @@ In the technical domain, ChatGPT assists programmers by generating code for a va
 ## 3.2 Different ChatGPT Examples
 ### 3.2.1 Fact-checking/Truth finding
 
-![Fact-checking example](/assets/fact-checking-example.png)
+![Fact-checking example](/assets/fact-checking-example.png) \
 In the realm of fact-checking or truth finding, Chat-GPT acts as a resourceful assistant due to its broad training on a multitude of facts and general knowledge. When confronted with questions like whether Holland is the capital of the Netherlands, Chat-GPT not only corrects the misconception by stating that Amsterdam is the capital, but also clarifies that Holland refers to two provinces within the country. This showcases the model's ability to grasp context and use it to provide clear and precise answers.
 Chat-GPT's utility in fact-checking is enhanced through prompt engineering, where it can rephrase questions for better clarity or directly target the core of the inquiry. This technique ensures that the AI understands and addresses the query effectively.
 Following Human-Computer Interaction principles, the tool is designed to be user-friendly, offering information in a conversational manner that's easy to understand and engage with, thus making complex information more accessible to a wider audience.
@@ -77,14 +77,14 @@ Overall, Chat-GPT's application in fact-checking serves as a bridge between user
 
 ### 3.2.2 Question answering
 
-![Question-answering example](/assets/question-answering-example.png)
+![Question-answering example](/assets/question-answering-example.png) \
 Enhancing the question-answering abilities of ChatGPT involves the integration of embeddings, vector search, and prompt engineering. This approach seeks to mitigate the model's tendency to produce less reliable responses when faced with topics beyond its initial training data. By using embeddings, the text is converted into a semantically rich format that is more conducive to effective searchability. These embeddings are then stored in vector databases, which allow for their swift retrieval when needed.
 The technique of prompt engineering is employed to direct ChatGPT towards delivering more accurate answers. This is achieved by first processing the data, then generating embeddings, and finally, creating well-crafted prompts that fuse the user's questions with related text snippets. Such prompts enable ChatGPT to provide responses that are both relevant and precise.
 To facilitate the deployment of these strategies, Langchain, a Python package, is utilized to streamline the establishment of a question-answering system that is sensitive to the context of inquiries. By applying these methods, ChatGPT can be fine-tuned to cater to specific datasets, thereby greatly enhancing its effectiveness for a variety of natural language processing applications. (Brand, 2023)
 
 ### 3.2.3 Educational tutoring
 
-![Educational-tutoring example](/assets/education-tutoring-example.png)
+![Educational-tutoring example](/assets/education-tutoring-example.png) \
 
 Chat-GPT, as an advanced natural language processing model, is making significant strides in the educational sector by enhancing the learning experience through AI-driven conversations. It leverages deep learning to understand and generate text, creating interactive dialogues where students can ask questions and receive immediate feedback. This interaction promotes active learning and helps deepen students' understanding of subjects.
 
@@ -98,7 +98,7 @@ In summary, Chat-GPT is at the vanguard of educational innovation, enhancing eng
 
 ### 3.2.4 Theory-of-mind problem solving
 
-![Theory-of-mind example](/assets/theory-of-mind-example.png)
+![Theory-of-mind example](/assets/theory-of-mind-example.png) \
 
 Chat-GPT's recent achievement of solving 95% of theory of mind tasks is a significant milestone in the realm of artificial intelligence. Theory of mind (ToM) is the cognitive ability to understand that others have beliefs, desires, intentions, and perspectives that are different from one's own. It's a fundamental aspect of human social interaction, allowing us to empathize and predict others' behavior based on their mental states. This skill is crucial for effective communication and is developed in humans as they grow, often assessed through tests like the "Sally-Anne" task, which measures understanding of false beliefs.
 In the context of AI, applying Chat-GPT to ToM problem-solving involves creating scenarios where the AI must infer the beliefs or intentions of characters in a given narrative, despite having different information itself. This is done through prompt engineering, where scenarios are constructed to elicit responses that reveal the AI's ability to understand and predict the mental states of these characters.
@@ -108,7 +108,7 @@ The significance of Chat-GPT's performance in ToM tasks lies not in the suggesti
 
 ### 3.4.5 APA-Style citation
 
-![APA-style example](/assets/apa-style-example.png)
+![APA-style example](/assets/apa-style-example.png) \
 
 When citing ChatGPT in APA style, the citation should reflect the AI's role as the information source, with OpenAI credited as the creator. The citation format in the reference list typically includes OpenAI as the author, the year, the title 'ChatGPT', the version, and the URL where the AI can be accessed. Prompt engineering and the AI's interaction with users are tailored to each use case, ensuring clear and relevant responses in line with HCI principles.
 The performance and accuracy of ChatGPT's responses are contingent on the prompts given and its training. For academic purposes, the method of using ChatGPT should be detailed in the paper, and responses may be included in an appendix or supplemental materials. This allows for transparency in the research process and provides readers with access to the AI-generated content.
