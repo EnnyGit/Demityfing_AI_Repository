@@ -24,10 +24,6 @@ Basically everywhere, from the introduction to the end, excluding this section w
 
 While successful, it is obvious that ChatGPT has been used. Also, I must admit that relying on it has somewhat reduced my ability to improve my own writing skills, which is a negative. On the other hand, just as using calculators has diminished my mental math skills, AI has had a similar effect. And me being a very technical person, I want to learn and keep up with technological trends. However, I am aware of the downsides of using it, sometimes becoming a bit too reliant on AI, especially when programming and writing texts.
 
-HOw did I use it?
-
-Where did i use it?
-
 # Part I: Problem Selection, Definition & Motivation + Human in the Loop
 ## 1.1 Artificial Intelligence definition
 Artificial intelligence is the field of study and application that involves crafting smart machines and software that can solve problems and make decisions in a way that, at times, resembles human cognition but can also go beyond human capabilities or methods. (What is artificial intelligence (AI) ? | IBM, z.d.)
