@@ -13,6 +13,20 @@ Throughout the development of this paper, AI, specifically ChatGPT, has been an 
 
 This paper is as much a product of AI as it is of my own thought process, embodying a collaborative synergy between human intent and machine intelligence. As we advance into the future, I look forward to witnessing—and shaping—the role of AI in our professional and personal lives.
 
+# Why and how was ChatGPT used in this paper?
+During this course we delved into AI and ChatGPT, with many discussions on how people are using this tool from generating emails to producing code. The latter of which I have been using a lot myself during my internship and at work as a developer. I also frequently use it to assist with documentation. That is why I am also among those people who heavily utilize ChatGPT, and as you’ll read later on, these are among the most popular ChatGPT use cases from a couple sources.
+
+I thought to myself; okay, let's make good use of ChatGPT for this report, but not have it generate content by itself since it can sometimes produce nonsense and that is also not allowed for obvious reasons. And instead use it to assist me and translate my own words, not change the content of the text, but rather refine sentence structure, grammar and incorporate some more sophisticated vocabulary.
+
+Typically, when I write a serious paper for school or work, I start with a draft riddled with grammatical errors and spelling mistakes. Then, I go through the whole report and correct these errors and also look up synonyms for certain words to polish the text. This second step is very time-consuming, so instead of doing it myself, I have used ChatGPT for this task. So, ChatGPT hasn’t invented or generated anything from its huge “knowledge”, it just corrected my grammatical and spelling mistakes, tweaked the sentence structure, and used more refined synonyms. The context of the text remains my own thoughts and experiences, just polished by AI.
+
+Basically everywhere, from the introduction to the end, excluding this section which I have written without any use of AI. Texts about my experience and contents were, of course, written by myself. And texts that primarily discuss a specific source, like a website or PDF, were also initially rephrased from the source by me and then polished by ChatGPT.
+
+While successful, it is obvious that ChatGPT has been used. Also, I must admit that relying on it has somewhat reduced my ability to improve my own writing skills, which is a negative. On the other hand, just as using calculators has diminished my mental math skills, AI has had a similar effect. And me being a very technical person, I want to learn and keep up with technological trends. However, I am aware of the downsides of using it, sometimes becoming a bit too reliant on AI, especially when programming and writing texts.
+
+HOw did I use it?
+
+Where did i use it?
 
 # Part I: Problem Selection, Definition & Motivation + Human in the Loop
 ## 1.1 Artificial Intelligence definition
